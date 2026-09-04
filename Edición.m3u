@@ -271,3 +271,149 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387700&ext
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387701&extension=ts&play_token=hXEf0nVM8w
 #EXTINF:-1 tvg-id="1396236" tvg-name="AMC HD" tvg-logo="http://103.176.90.92/images/1396236.png" group-title="ES| M+ CINE",AMC HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1396236&extension=ts&play_token=QB9wNwPRWo
+#EXTINF:-1 tvg-id="1466062" tvg-name="NEGOCIOS TV HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NEGOCIOS.png" group-title="ES| TDT ESPAÑA VIP",NEGOCIOS TV HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1466062&extension=ts&play_token=8RujYAeRzH
+#EXTINF:-1 tvg-id="1468854" tvg-name="BBC WORLD NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCWORLDNEWS.png" group-title="EN| NEWS",BBC WORLD NEWS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1468854&extension=ts&play_token=Fq9kHuW8gP
+#EXTINF:-1 tvg-id="1471769" tvg-name="RUNTIME THRILLER/TERROR HD" tvg-logo="http://103.176.90.92/images/1471769.png" group-title="ES| M+ CINE",RUNTIME THRILLER/TERROR HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1471769&extension=ts&play_token=nidqqdMU5n
+#EXTINF:-1 tvg-id="1471770" tvg-name="RUNTIME SERIES HD" tvg-logo="http://103.176.90.92/images/1471770.png" group-title="ES| M+ CINE",RUNTIME SERIES HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1471770&extension=ts&play_token=KvgaJH7svq
+#EXTINF:-1 tvg-id="1471771" tvg-name="RUNTIME COMEDIA HD" tvg-logo="http://103.176.90.92/images/1471771.png" group-title="ES| M+ CINE",RUNTIME COMEDIA HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1471771&extension=ts&play_token=ovO53CnM6s
+#EXTINF:-1 tvg-id="1471772" tvg-name="RUNTIME CLÁSICO HD" tvg-logo="http://103.176.90.92/images/1471772.png" group-title="ES| M+ CINE",RUNTIME CLÁSICO HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1471772&extension=ts&play_token=DlxYgaxMyp
+#EXTINF:-1 tvg-id="1471773" tvg-name="RUNTIME CINE Y SERIES HD" tvg-logo="http://103.176.90.92/images/1471773.png" group-title="ES| M+ CINE",RUNTIME CINE Y SERIES HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1471773&extension=ts&play_token=8eznZcZqdi
+#EXTINF:-1 tvg-id="1471774" tvg-name="RUNTIME ACCIÓN HD" tvg-logo="http://103.176.90.92/images/1471774.png" group-title="ES| M+ CINE",RUNTIME ACCIÓN HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1471774&extension=ts&play_token=0fsuqXySUf
+#EXTINF:-1 tvg-id="149646" tvg-name="RT AMERICA HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="EN| NEWS",RT AMERICA HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=149646&extension=ts&play_token=pdINTCa5MU
+#EXTINF:-1 tvg-id="149647" tvg-name="RT DOCUMENTRY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/149647.png" group-title="EN| GENERAL",RT DOCUMENTRY HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=149647&extension=ts&play_token=EfEPzNtm1Q
+#EXTINF:-1 tvg-id="149648" tvg-name="RT NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="EN| NEWS",RT NEWS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=149648&extension=ts&play_token=YlNc3oNAT4
+#EXTINF:-1 tvg-id="149649" tvg-name="RT UK HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="EN| NEWS",RT UK HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=149649&extension=ts&play_token=jsM1VobepO
+#EXTINF:-1 tvg-id="149653" tvg-name="FRANCE 24" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FRANCE24.png" group-title="EN| NEWS",FRANCE 24
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=149653&extension=ts&play_token=lFaM7o7Jen
+#EXTINF:-1 tvg-id="1507792" tvg-name="TALK SPORT FHD" tvg-logo="http://51.158.145.100/picons/logos/france/1507792.png" group-title="FR| FRANCE FHD",TALK SPORT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1507792&extension=ts&play_token=RCS9CbIyGI
+#EXTINF:-1 tvg-id="1507794" tvg-name="MYSTÈRE FHD" tvg-logo="http://51.158.145.100/picons/logos/france/1507794.png" group-title="FR| FRANCE FHD",MYSTÈRE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1507794&extension=ts&play_token=JLyJ0q9mIe
+#EXTINF:-1 tvg-id="1510692" tvg-name="#VAMOS FHD" tvg-logo="http://103.176.90.95/images/1510692.png" group-title="ES| M+ VAMOS",#VAMOS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510692&extension=ts&play_token=ErlGddojGr
+#EXTINF:-1 tvg-id="1510694" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://103.176.90.95/images/1510694.png" group-title="ES| OTROS DEPORTES",EUROSPORT 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510694&extension=ts&play_token=l297t5f1Zz
+#EXTINF:-1 tvg-id="1510695" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://103.176.90.95/images/1510695.png" group-title="ES| OTROS DEPORTES",EUROSPORT 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510695&extension=ts&play_token=b4FZzJXQ5V
+#EXTINF:-1 tvg-id="1510696" tvg-name="EUROSPORT 2 HD" tvg-logo="http://103.176.90.92/images/1510696.png" group-title="ES| OTROS DEPORTES",EUROSPORT 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510696&extension=ts&play_token=IlYnjscVZA
+#EXTINF:-1 tvg-id="1510697" tvg-name="GOL PLAY FHD" tvg-logo="http://103.176.90.95/images/1510697.png" group-title="ES| OTROS DEPORTES",GOL PLAY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510697&extension=ts&play_token=8UScSlM9Uh
+#EXTINF:-1 tvg-id="1510698" tvg-name="M.DEPORTES 1 FHD" tvg-logo="http://103.176.90.95/images/1510698.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510698&extension=ts&play_token=921rqvWH6l
+#EXTINF:-1 tvg-id="1510699" tvg-name="M.DEPORTES 2 FHD" tvg-logo="http://103.176.90.95/images/1510699.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510699&extension=ts&play_token=MEKrYTmvrV
+#EXTINF:-1 tvg-id="1510700" tvg-name="M.DEPORTES 2 HD" tvg-logo="http://103.176.90.95/images/1510700.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510700&extension=ts&play_token=bitUoJNej8
+#EXTINF:-1 tvg-id="1510701" tvg-name="M.DEPORTES 3 FHD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510701.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 3 FHD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510701&extension=ts&play_token=zypmd7pTXz
+#EXTINF:-1 tvg-id="1510702" tvg-name="M.DEPORTES 3 HD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510702.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 3 HD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510702&extension=ts&play_token=XK62zXe64j
+#EXTINF:-1 tvg-id="1510703" tvg-name="M.DEPORTES 4 FHD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510703.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 4 FHD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510703&extension=ts&play_token=tKjKuQNyzu
+#EXTINF:-1 tvg-id="1510704" tvg-name="M.DEPORTES 4 HD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510704.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 4 HD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510704&extension=ts&play_token=baAVilPte2
+#EXTINF:-1 tvg-id="1510705" tvg-name="M.DEPORTES 5 FHD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510705.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 5 FHD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510705&extension=ts&play_token=40z5JaCqSc
+#EXTINF:-1 tvg-id="1510706" tvg-name="M.DEPORTES 5 HD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510706.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 5 HD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510706&extension=ts&play_token=VCvWy234nM
+#EXTINF:-1 tvg-id="1510707" tvg-name="M.DEPORTES 6 HD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510707.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 6 HD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510707&extension=ts&play_token=a1jvNHuv9H
+#EXTINF:-1 tvg-id="1510708" tvg-name="M.DEPORTES 7 HD [LIVEEVENT]" tvg-logo="http://103.176.90.95/images/1510708.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 7 HD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510708&extension=ts&play_token=TeIIZ6xLYn
+#EXTINF:-1 tvg-id="1510709" tvg-name="M.GOLF 2 FHD" tvg-logo="http://103.176.90.95/images/1510709.png" group-title="ES| OTROS DEPORTES",M.GOLF 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510709&extension=ts&play_token=lBQ2ynouCu
+#EXTINF:-1 tvg-id="1510710" tvg-name="M.LALIGA 5 FHD [LIVEEVENT]" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="ES| M+ LALIGA",M.LALIGA 5 FHD [LIVEEVENT]
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510710&extension=ts&play_token=NdsIURNVGT
+#EXTINF:-1 tvg-id="1510711" tvg-name="FOOTBALL 1 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510711.png" group-title="ES| OTROS DEPORTES",FOOTBALL 1 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510711&extension=ts&play_token=7nRcKKrjYH
+#EXTINF:-1 tvg-id="1510712" tvg-name="FOOTBALL 2 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510712.png" group-title="ES| OTROS DEPORTES",FOOTBALL 2 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510712&extension=ts&play_token=C65MIlQKG0
+#EXTINF:-1 tvg-id="1510713" tvg-name="FOOTBALL 3 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510713.png" group-title="ES| OTROS DEPORTES",FOOTBALL 3 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510713&extension=ts&play_token=4cuTUoUkGn
+#EXTINF:-1 tvg-id="1510714" tvg-name="FOOTBALL 4 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510714.png" group-title="ES| OTROS DEPORTES",FOOTBALL 4 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510714&extension=ts&play_token=N9L6UZTwcR
+#EXTINF:-1 tvg-id="1510715" tvg-name="FOOTBALL 5 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510715.png" group-title="ES| OTROS DEPORTES",FOOTBALL 5 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510715&extension=ts&play_token=gMF6AEEfFL
+#EXTINF:-1 tvg-id="1510716" tvg-name="FOOTBALL 6 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510716.png" group-title="ES| OTROS DEPORTES",FOOTBALL 6 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510716&extension=ts&play_token=MtdsTzO5Ic
+#EXTINF:-1 tvg-id="1510717" tvg-name="FOOTBALL 7 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510717.png" group-title="ES| OTROS DEPORTES",FOOTBALL 7 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510717&extension=ts&play_token=PeSst6rbij
+#EXTINF:-1 tvg-id="1510718" tvg-name="FOOTBALL 8 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510718.png" group-title="ES| OTROS DEPORTES",FOOTBALL 8 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510718&extension=ts&play_token=mzAKvuSRnG
+#EXTINF:-1 tvg-id="1510719" tvg-name="FOOTBALL 9 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510719.png" group-title="ES| OTROS DEPORTES",FOOTBALL 9 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510719&extension=ts&play_token=prtENRfa7B
+#EXTINF:-1 tvg-id="1510720" tvg-name="FOOTBALL 10 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510720.png" group-title="ES| OTROS DEPORTES",FOOTBALL 10 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510720&extension=ts&play_token=nrNaXAnbfx
+#EXTINF:-1 tvg-id="1510721" tvg-name="FOOTBALL 11 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510721.png" group-title="ES| OTROS DEPORTES",FOOTBALL 11 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510721&extension=ts&play_token=0arcLQD02a
+#EXTINF:-1 tvg-id="1510722" tvg-name="FOOTBALL 12 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510722.png" group-title="ES| OTROS DEPORTES",FOOTBALL 12 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510722&extension=ts&play_token=qEOENGFjH8
+#EXTINF:-1 tvg-id="1510723" tvg-name="FOOTBALL 13 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510723.png" group-title="ES| OTROS DEPORTES",FOOTBALL 13 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510723&extension=ts&play_token=UREnxbkWzL
+#EXTINF:-1 tvg-id="1510724" tvg-name="FOOTBALL 14 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510724.png" group-title="ES| OTROS DEPORTES",FOOTBALL 14 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510724&extension=ts&play_token=SgfPbOQnXL
+#EXTINF:-1 tvg-id="1510725" tvg-name="FOOTBALL 15 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510725.png" group-title="ES| OTROS DEPORTES",FOOTBALL 15 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510725&extension=ts&play_token=rmJnlsoN8V
+#EXTINF:-1 tvg-id="1510726" tvg-name="FOOTBALL 16 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510726.png" group-title="ES| OTROS DEPORTES",FOOTBALL 16 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510726&extension=ts&play_token=69sgwE1YUt
+#EXTINF:-1 tvg-id="1510727" tvg-name="FOOTBALL 17 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510727.png" group-title="ES| OTROS DEPORTES",FOOTBALL 17 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510727&extension=ts&play_token=ezBSomTbEa
+#EXTINF:-1 tvg-id="1510728" tvg-name="FOOTBALL 18 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510728.png" group-title="ES| OTROS DEPORTES",FOOTBALL 18 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510728&extension=ts&play_token=nbQX1fBQTl
+#EXTINF:-1 tvg-id="1510729" tvg-name="FOOTBALL 19 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510729.png" group-title="ES| OTROS DEPORTES",FOOTBALL 19 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510729&extension=ts&play_token=9MjIJEnU24
+#EXTINF:-1 tvg-id="1510730" tvg-name="FOOTBALL 20 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510730.png" group-title="ES| OTROS DEPORTES",FOOTBALL 20 FHD (SOLO EVENTOS)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510730&extension=ts&play_token=HvFd8YVCUg
+#EXTINF:-1 tvg-id="1510731" tvg-name="M.FORMULA1 FHD" tvg-logo="http://103.176.90.95/images/1510731.png" group-title="ES| OTROS DEPORTES",M.FORMULA1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510731&extension=ts&play_token=KYpYBw031A
+#EXTINF:-1 tvg-id="1510750" tvg-name="R. MADRID TV FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/REALMADRID.png" group-title="ES| TDT ESPAÑA VIP",R. MADRID TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510750&extension=ts&play_token=ZhDEjp4Pba
+#EXTINF:-1 tvg-id="1510751" tvg-name="TELEDEPORTE FHD" tvg-logo="http://103.176.90.95/images/1510751.png" group-title="ES| OTROS DEPORTES",TELEDEPORTE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510751&extension=ts&play_token=s52SrkIbUn
+#EXTINF:-1 tvg-id="1510752" tvg-name="BARCA TV HD" tvg-logo="http://103.176.90.92/images/1510752.png" group-title="ES| OTROS DEPORTES",BARCA TV HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510752&extension=ts&play_token=lMcLCBdqNY
+#EXTINF:-1 tvg-id="1510753" tvg-name="BARCA TV FHD" tvg-logo="http://103.176.90.95/images/1510753.png" group-title="ES| OTROS DEPORTES",BARCA TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510753&extension=ts&play_token=FkoQ6QOb9H
+#EXTINF:-1 tvg-id="1510754" tvg-name="BARCA TV SD" tvg-logo="http://103.176.90.92/images/1510754.png" group-title="ES| OTROS DEPORTES",BARCA TV SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510754&extension=ts&play_token=d7FleKGg0z
+#EXTINF:-1 tvg-id="1510757" tvg-name="LALIGA TV BAR FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="ES| M+ LALIGA",LALIGA TV BAR FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510757&extension=ts&play_token=d9PUmGviXU
+#EXTINF:-1 tvg-id="1510758" tvg-name="M.DEPORTES FHD" tvg-logo="http://103.176.90.95/images/1510758.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510758&extension=ts&play_token=QXVdGtngBE
+#EXTINF:-1 tvg-id="1510759" tvg-name="M.ELLAS #V FHD" tvg-logo="http://103.176.90.95/images/1510759.png" group-title="ES| M+ VAMOS",M.ELLAS #V FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510759&extension=ts&play_token=q8x5iSsFmY
+#EXTINF:-1 tvg-id="1510760" tvg-name="M.GOLF FHD" tvg-logo="http://103.176.90.95/images/1510760.png" group-title="ES| OTROS DEPORTES",M.GOLF FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510760&extension=ts&play_token=ugNtLdbwjs
+#EXTINF:-1 tvg-id="1510762" tvg-name="R. MADRID TV HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/REALMADRID.png" group-title="ES| TDT ESPAÑA VIP",R. MADRID TV HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1510762&extension=ts&play_token=uBwX50a42q
+#EXTINF:-1 tvg-id="1531568" tvg-name="FRANCOIS L'EMBROUILLE" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",FRANCOIS L'EMBROUILLE
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1531568&extension=ts&play_token=MQ7696KhyG
+#EXTINF:-1 tvg-id="1531569" tvg-name="JUST FOR LAUGHS GAGS" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",JUST FOR LAUGHS GAGS
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1531569&extension=ts&play_token=5Z2YvRHMlj
+#EXTINF:-1 tvg-id="1531663" tvg-name="M.CLASICOS HD" tvg-logo="http://103.176.90.92/images/1531663.png" group-title="ES| M+ CINE",M.CLASICOS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1531663&extension=ts&play_token=6RQ0NGUtC2
+#EXTINF:-1 tvg-id="1535806" tvg-name="DAZN BAR 1 SD" tvg-logo="http://103.176.90.95/images/1535806.png" group-title="ES| DAZN ESPAÑA",DAZN BAR 1 SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1535806&extension=ts&play_token=zD2voUqCd1
+#EXTINF:-1 tvg-id="1535807" tvg-name="DAZN BAR 1 FHD" tvg-logo="http://103.176.90.95/images/1535807.png" group-title="ES| DAZN ESPAÑA",DAZN BAR 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1535807&extension=ts&play_token=omMW51UgqU
+#EXTINF:-1 tvg-id="1535808" tvg-name="DAZN BAR 1 HD" tvg-logo="http://103.176.90.95/images/1535808.png" group-title="ES| DAZN ESPAÑA",DAZN BAR 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1535808&extension=ts&play_token=0xU7bEkBuK
+#EXTINF:-1 tvg-id="1535809" tvg-name="DAZN BAR 2 SD" tvg-logo="http://103.176.90.95/images/1535809.png" group-title="ES| DAZN ESPAÑA",DAZN BAR 2 SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1535809&extension=ts&play_token=HOJnwkjDQl
+#EXTINF:-1 tvg-id="1535810" tvg-name="DAZN BAR 2 FHD" tvg-logo="http://103.176.90.95/images/1535810.png" group-title="ES| DAZN ESPAÑA",DAZN BAR 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1535810&extension=ts&play_token=3x28S4WIEB
+#EXTINF:-1 tvg-id="1535811" tvg-name="DAZN BAR 2 HD" tvg-logo="http://103.176.90.95/images/1535811.png" group-title="ES| DAZN ESPAÑA",DAZN BAR 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1535811&extension=ts&play_token=je6pyQrDZB
