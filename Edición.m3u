@@ -843,3 +843,131 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1548416&ext
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1548417&extension=ts&play_token=74AZF9S0yB
 #EXTINF:-1 tvg-id="1548418" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 SD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1548418&extension=ts&play_token=DuH3kc9lYW
+#EXTINF:-1 tvg-id="1796477" tvg-name="TLC FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TLC.png" group-title="ES| TIVIFY",TLC FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796477&extension=ts&play_token=a3tGVbundT
+#EXTINF:-1 tvg-id="1796478" tvg-name="MUNDO SERIES HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MUNDOSERIES.png" group-title="ES| TIVIFY",MUNDO SERIES HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796478&extension=ts&play_token=SfThNB79qR
+#EXTINF:-1 tvg-id="1796487" tvg-name="AMC FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/AMC.png" group-title="ES| TIVIFY",AMC FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796487&extension=ts&play_token=040De7vOtI
+#EXTINF:-1 tvg-id="1796489" tvg-name="ANTENA 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ANTENA3.png" group-title="ES| TIVIFY",ANTENA 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796489&extension=ts&play_token=JS0mkS4hDS
+#EXTINF:-1 tvg-id="1796493" tvg-name="AXN FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/AXN.png" group-title="ES| TIVIFY",AXN FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796493&extension=ts&play_token=RkAOqYbLtk
+#EXTINF:-1 tvg-id="1796496" tvg-name="ARAGON TV INT HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ARAGONTVINT.png" group-title="ES| TIVIFY",ARAGON TV INT HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796496&extension=ts&play_token=jbmeX8BWQQ
+#EXTINF:-1 tvg-id="1796497" tvg-name="TVE INT HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TVEINT.png" group-title="ES| TIVIFY",TVE INT HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796497&extension=ts&play_token=MOZk3eH9rt
+#EXTINF:-1 tvg-id="1796500" tvg-name="WORLD DISCOVERY FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/WORLDDISCOVERY.png" group-title="ES| TIVIFY",WORLD DISCOVERY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796500&extension=ts&play_token=pvnK2wEYC7
+#EXTINF:-1 tvg-id="1796501" tvg-name="BE MAD FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BEMAD.png" group-title="ES| TIVIFY",BE MAD FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796501&extension=ts&play_token=kFudc0XgVU
+#EXTINF:-1 tvg-id="1796504" tvg-name="BLAZE HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BLAZE.png" group-title="ES| TIVIFY",BLAZE HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796504&extension=ts&play_token=BiqXcvu0to
+#EXTINF:-1 tvg-id="1796505" tvg-name="BOING FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BOING.png" group-title="ES| TIVIFY",BOING FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796505&extension=ts&play_token=sQ59V9yBcy
+#EXTINF:-1 tvg-id="1796507" tvg-name="A & E FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/AE.png" group-title="ES| TIVIFY",A & E FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796507&extension=ts&play_token=YOTMnA8OG3
+#EXTINF:-1 tvg-id="1796508" tvg-name="CALLE 13 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CALLE13.png" group-title="ES| TIVIFY",CALLE 13 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796508&extension=ts&play_token=2KL4whNMy5
+#EXTINF:-1 tvg-id="1796513" tvg-name="CINEAR FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CINEAR.png" group-title="ES| TIVIFY",CINEAR FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796513&extension=ts&play_token=kBvKtHUQ6g
+#EXTINF:-1 tvg-id="1796514" tvg-name="CANAL EXTREMADURA HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALEXTREMADURA.png" group-title="ES| TIVIFY",CANAL EXTREMADURA HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796514&extension=ts&play_token=TO5KUMRuPk
+#EXTINF:-1 tvg-id="1796515" tvg-name="CANAL SUR FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALSUR.png" group-title="ES| TIVIFY",CANAL SUR FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796515&extension=ts&play_token=uIgT53yKOG
+#EXTINF:-1 tvg-id="1796518" tvg-name="CLAN HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CLAN.png" group-title="ES| TIVIFY",CLAN HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796518&extension=ts&play_token=HFM64TdfAS
+#EXTINF:-1 tvg-id="1796519" tvg-name="CINEMAX FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CINEMAX.png" group-title="ES| TIVIFY",CINEMAX FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796519&extension=ts&play_token=LbkSZl0itt
+#EXTINF:-1 tvg-id="1796520" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/COMEDYCENTRAL.png" group-title="ES| TIVIFY",COMEDY CENTRAL HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796520&extension=ts&play_token=Fvj3cNqac8
+#EXTINF:-1 tvg-id="1796522" tvg-name="CUATRO HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CUATRO.png" group-title="ES| TIVIFY",CUATRO HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796522&extension=ts&play_token=sjFWzaTXRc
+#EXTINF:-1 tvg-id="1796526" tvg-name="CANAL EXTREMADURA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALEXTREMADURA.png" group-title="ES| TIVIFY",CANAL EXTREMADURA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796526&extension=ts&play_token=qjxTi1wXSI
+#EXTINF:-1 tvg-id="1796528" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DISNEYCHANNEL.png" group-title="ES| TIVIFY",DISNEY CHANNEL HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796528&extension=ts&play_token=3kcENZoQOW
+#EXTINF:-1 tvg-id="1796530" tvg-name="DIVINITY FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DIVINITY.png" group-title="ES| TIVIFY",DIVINITY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796530&extension=ts&play_token=xBXR6oJM7B
+#EXTINF:-1 tvg-id="1796531" tvg-name="DKISS FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DKISS.png" group-title="ES| TIVIFY",DKISS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796531&extension=ts&play_token=tRIkc5plnC
+#EXTINF:-1 tvg-id="1796533" tvg-name="ELTORO TV HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ELTORO.png" group-title="ES| TIVIFY",ELTORO TV HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796533&extension=ts&play_token=PWDKLfipt1
+#EXTINF:-1 tvg-id="1796534" tvg-name="ENERGY FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ENERGY.png" group-title="ES| TIVIFY",ENERGY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796534&extension=ts&play_token=gyLN9PHDC5
+#EXTINF:-1 tvg-id="1796536" tvg-name="ETB 1" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ETB1.png" group-title="ES| TIVIFY",ETB 1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796536&extension=ts&play_token=4Gy7wWbguP
+#EXTINF:-1 tvg-id="1796538" tvg-name="TNT NOVELAS HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TNTNOVELAS.png" group-title="ES| TIVIFY",TNT NOVELAS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796538&extension=ts&play_token=fOmfCl7QwE
+#EXTINF:-1 tvg-id="1796542" tvg-name="TNT SERIES HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TNTSERIES.png" group-title="ES| TIVIFY",TNT SERIES HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796542&extension=ts&play_token=JFj6pQ70Jz
+#EXTINF:-1 tvg-id="1796550" tvg-name="IBERALIA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/IBERALIA.png" group-title="ES| TIVIFY",IBERALIA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796550&extension=ts&play_token=7VC8O686RE
+#EXTINF:-1 tvg-id="1796555" tvg-name="LA 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LA2.png" group-title="ES| TIVIFY",LA 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796555&extension=ts&play_token=4j4p4gmIag
+#EXTINF:-1 tvg-id="1796557" tvg-name="LA LIGA 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="ES| TIVIFY",LA LIGA 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796557&extension=ts&play_token=QeM1xiuX6q
+#EXTINF:-1 tvg-id="1796558" tvg-name="LA LIGA 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="ES| TIVIFY",LA LIGA 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796558&extension=ts&play_token=pQX50wYiLQ
+#EXTINF:-1 tvg-id="1796560" tvg-name="LA SEXTA FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LASEXTA.png" group-title="ES| TIVIFY",LA SEXTA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796560&extension=ts&play_token=6M8W7YS1Fl
+#EXTINF:-1 tvg-id="1796562" tvg-name="MEGA FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MEGA.png" group-title="ES| TIVIFY",MEGA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796562&extension=ts&play_token=AasJSJrtQW
+#EXTINF:-1 tvg-id="1796565" tvg-name="FLAMENCO AUDITORIO FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/FLAMENCOAUDITORIO.png" group-title="ES| TIVIFY",FLAMENCO AUDITORIO FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796565&extension=ts&play_token=HFangFxF1A
+#EXTINF:-1 tvg-id="1796568" tvg-name="GORMITI & FRIENDS FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/GORMITIFRIENDS.png" group-title="ES| TIVIFY",GORMITI & FRIENDS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796568&extension=ts&play_token=QamRSSlSnR
+#EXTINF:-1 tvg-id="1796572" tvg-name="NICKELODEON HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NICKELODEON.png" group-title="ES| TIVIFY",NICKELODEON HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796572&extension=ts&play_token=7wMjmwuNOu
+#EXTINF:-1 tvg-id="1796573" tvg-name="NICK JR HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NICKJR.png" group-title="ES| TIVIFY",NICK JR HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796573&extension=ts&play_token=QjrCu4AYaT
+#EXTINF:-1 tvg-id="1796576" tvg-name="ODISEA FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ODISEA.png" group-title="ES| TIVIFY",ODISEA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796576&extension=ts&play_token=tTqXgulXIt
+#EXTINF:-1 tvg-id="1796578" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/STUDIOUNIVERSAL.png" group-title="ES| TIVIFY",STUDIO UNIVERSAL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796578&extension=ts&play_token=yxUHqOpYfL
+#EXTINF:-1 tvg-id="1796580" tvg-name="EL PAIS FHD" tvg-logo="http://103.176.90.92/images/1796580.png" group-title="ES| TIVIFY",EL PAIS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796580&extension=ts&play_token=hZ10auwlDS
+#EXTINF:-1 tvg-id="1796581" tvg-name="REAL MADRID TV FHD" tvg-logo="http://103.176.90.92/images/1796581.png" group-title="ES| TIVIFY",REAL MADRID TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796581&extension=ts&play_token=jxbkx4BKRz
+#EXTINF:-1 tvg-id="1796583" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DISCOVERYKIDS.png" group-title="ES| TIVIFY",DISCOVERY KIDS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796583&extension=ts&play_token=V7wQ9GLuMC
+#EXTINF:-1 tvg-id="1796584" tvg-name="SOMOS FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SOMOS.png" group-title="ES| TIVIFY",SOMOS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796584&extension=ts&play_token=1enabwx8oy
+#EXTINF:-1 tvg-id="1796585" tvg-name="SUNDANCE TV FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SUNDANCE.png" group-title="ES| TIVIFY",SUNDANCE TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796585&extension=ts&play_token=L2BetlM2Jn
+#EXTINF:-1 tvg-id="1796586" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DISCOVERYKIDS.png" group-title="ES| TIVIFY",DISCOVERY KIDS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796586&extension=ts&play_token=28mcaC04He
+#EXTINF:-1 tvg-id="1796587" tvg-name="AZ CORAZÓN HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/AZCORAZON.png" group-title="ES| TIVIFY",AZ CORAZÓN HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796587&extension=ts&play_token=QPKU47FIo4
+#EXTINF:-1 tvg-id="1796588" tvg-name="A TRES SERIES FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ATRESSERIES.png" group-title="ES| TIVIFY",A TRES SERIES FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796588&extension=ts&play_token=gwVMYu0jRI
+#EXTINF:-1 tvg-id="1796589" tvg-name="SYFY HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SYFY.png" group-title="ES| TIVIFY",SYFY HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796589&extension=ts&play_token=VZEv1fHqO2
+#EXTINF:-1 tvg-id="1796590" tvg-name="TCM HD" tvg-logo="http://103.176.90.92/images/1796590.png" group-title="ES| TIVIFY",TCM HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796590&extension=ts&play_token=NaSxE1ccSR
+#EXTINF:-1 tvg-id="1796592" tvg-name="TELE CINCO FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELECINCO.png" group-title="ES| TIVIFY",TELE CINCO FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796592&extension=ts&play_token=rMleUwmhOx
+#EXTINF:-1 tvg-id="1796593" tvg-name="TELE DEPORTE HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEDEPORTE.png" group-title="ES| TIVIFY",TELE DEPORTE HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796593&extension=ts&play_token=d8Sud4Oxlx
+#EXTINF:-1 tvg-id="1796594" tvg-name="TELE MADRID HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEMADRID.png" group-title="ES| TIVIFY",TELE MADRID HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796594&extension=ts&play_token=EsBO53inf6
+#EXTINF:-1 tvg-id="1796595" tvg-name="TELE MADRID INTERNACIONAL HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEMADRID.png" group-title="ES| TIVIFY",TELE MADRID INTERNACIONAL HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796595&extension=ts&play_token=begdaf0pZk
+#EXTINF:-1 tvg-id="1796599" tvg-name="TNT SERIES FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TNTSERIES.png" group-title="ES| TIVIFY",TNT SERIES FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796599&extension=ts&play_token=4V5YZ6LTJd
+#EXTINF:-1 tvg-id="1796600" tvg-name="TNT NOVELAS FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TNTNOVELAS.png" group-title="ES| TIVIFY",TNT NOVELAS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796600&extension=ts&play_token=0B3gaxqjqJ
+#EXTINF:-1 tvg-id="1796603" tvg-name="TRECE TV FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TRECE.png" group-title="ES| TIVIFY",TRECE TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796603&extension=ts&play_token=fR0K4LGwir
+#EXTINF:-1 tvg-id="1796604" tvg-name="MOVISTAR PLUS +2 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png" group-title="ES| TIVIFY",MOVISTAR PLUS +2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796604&extension=ts&play_token=SILbgLLoXc
+#EXTINF:-1 tvg-id="1796605" tvg-name="NEGOCIOS TV HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NEGOCIOS.png" group-title="ES| TIVIFY",NEGOCIOS TV HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796605&extension=ts&play_token=tF26fOkvFb
+#EXTINF:-1 tvg-id="1796606" tvg-name="TV3 CAT HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TV3CAT.png" group-title="ES| TIVIFY",TV3 CAT HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796606&extension=ts&play_token=78BkFiMmC4
+#EXTINF:-1 tvg-id="1796610" tvg-name="DISCOVERY H&H FHD" tvg-logo="http://103.176.90.92/images/1796610.png" group-title="ES| TIVIFY",DISCOVERY H&H FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796610&extension=ts&play_token=K0Ay4joKYp
+#EXTINF:-1 tvg-id="1796612" tvg-name="ALCARRIA TV HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ALCARRIA.png" group-title="ES| TIVIFY",ALCARRIA TV HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796612&extension=ts&play_token=5GqbL6qzcu
+#EXTINF:-1 tvg-id="1796615" tvg-name="TL NOVELAS HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TLNOVELAS.png" group-title="ES| TIVIFY",TL NOVELAS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1796615&extension=ts&play_token=bstZbsfIcC
