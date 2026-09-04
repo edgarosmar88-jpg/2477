@@ -231,3 +231,43 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119026&exte
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119027&extension=ts&play_token=vNDlbGQejm
 #EXTINF:-1 tvg-id="119028" tvg-name="M.ORIGINALES HEVC" tvg-logo="http://103.176.90.95/images/119028.png" group-title="ES| M+ CINE",M.ORIGINALES HEVC
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119028&extension=ts&play_token=snhs4j9J96
+#EXTINF:-1 tvg-id="1324666" tvg-name="M.PLUS+ HD" tvg-logo="http://103.176.90.95/images/1324666.png" group-title="ES| MOVISTAR PLUS+",M.PLUS+ HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1324666&extension=ts&play_token=QRnKyZJXOa
+#EXTINF:-1 tvg-id="1324667" tvg-name="M.DOCUMENTALES HD" tvg-logo="http://103.176.90.95/images/1324667.png" group-title="ES| MOVISTAR PLUS+",M.DOCUMENTALES HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1324667&extension=ts&play_token=3Ij9nf6ZyK
+#EXTINF:-1 tvg-id="1324668" tvg-name="M.TERROR HD" tvg-logo="http://103.176.90.92/images/1324668.png" group-title="ES| M+ CINE",M.TERROR HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1324668&extension=ts&play_token=R99RGdQBAH
+#EXTINF:-1 tvg-id="1334473" tvg-name="M.GOLF 2 HD" tvg-logo="http://103.176.90.92/images/1334473.png" group-title="ES| OTROS DEPORTES",M.GOLF 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1334473&extension=ts&play_token=QTdMekcUJV
+#EXTINF:-1 tvg-id="1338522" tvg-name="CANAL+ BOX OFFICE FHD" tvg-logo="http://51.158.145.100/picons/logos/france/1338522.png" group-title="FR| FRANCE FHD",CANAL+ BOX OFFICE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1338522&extension=ts&play_token=xHKEVnlSHA
+#EXTINF:-1 tvg-id="1347433" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1347433&extension=ts&play_token=52Oh6mGbU0
+#EXTINF:-1 tvg-id="1353932" tvg-name="M.ELLAS #V SD" tvg-logo="http://103.176.90.95/images/1353932.png" group-title="ES| M+ VAMOS",M.ELLAS #V SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1353932&extension=ts&play_token=zjfTgQ1R4C
+#EXTINF:-1 tvg-id="136724" tvg-name="ANTENA 3 INT." tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ANTENA3.png" group-title="ES| TDT ESPAÑA VIP",ANTENA 3 INT.
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=136724&extension=ts&play_token=3igULhHWNv
+#EXTINF:-1 tvg-id="1384166" tvg-name="HARRY POTTER" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",HARRY POTTER
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1384166&extension=ts&play_token=wXXy4IMDJC
+#EXTINF:-1 tvg-id="1384167" tvg-name="ROCKY" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",ROCKY
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1384167&extension=ts&play_token=PleWbNW4Kf
+#EXTINF:-1 tvg-id="1387693" tvg-name="NETFLIX CINE HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX CINE HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387693&extension=ts&play_token=6SkOUbrNog
+#EXTINF:-1 tvg-id="1387694" tvg-name="NETFLIX CINE + HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX CINE + HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387694&extension=ts&play_token=QUCmP9r5nM
+#EXTINF:-1 tvg-id="1387695" tvg-name="NETFLIX PELÍCULAS HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX PELÍCULAS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387695&extension=ts&play_token=Gi528wjUBH
+#EXTINF:-1 tvg-id="1387696" tvg-name="NETFLIX ESPAÑOL HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX ESPAÑOL HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387696&extension=ts&play_token=9EHF8cJc86
+#EXTINF:-1 tvg-id="1387697" tvg-name="NETFLIX TELEVISION HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX TELEVISION HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387697&extension=ts&play_token=NcZJIab4jy
+#EXTINF:-1 tvg-id="1387698" tvg-name="NETFLIX HISTORIA HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX HISTORIA HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387698&extension=ts&play_token=9nDSzH90p9
+#EXTINF:-1 tvg-id="1387699" tvg-name="NETFLIX SCI-FI HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX SCI-FI HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387699&extension=ts&play_token=z4syRcTQNa
+#EXTINF:-1 tvg-id="1387700" tvg-name="NETFLIX DRAMA HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX DRAMA HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387700&extension=ts&play_token=KE4RJm7T6B
+#EXTINF:-1 tvg-id="1387701" tvg-name="NETFLIX NINOS HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX NINOS HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1387701&extension=ts&play_token=hXEf0nVM8w
+#EXTINF:-1 tvg-id="1396236" tvg-name="AMC HD" tvg-logo="http://103.176.90.92/images/1396236.png" group-title="ES| M+ CINE",AMC HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1396236&extension=ts&play_token=QB9wNwPRWo
