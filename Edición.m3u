@@ -163,3 +163,71 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107641&exte
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107645&extension=ts&play_token=nYVK5FDHpx
 #EXTINF:-1 tvg-id="107647" tvg-name="A3 SERIES HD" tvg-logo="http://103.176.90.92/images/107647.png" group-title="ES| TDT SERIES",A3 SERIES HD
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107647&extension=ts&play_token=Qvw2ZphzLk
+#EXTINF:-1 tvg-id="118989" tvg-name="WARNER TV HEVC" tvg-logo="http://103.176.90.95/images/118989.png" group-title="ES| M+ CINE",WARNER TV HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118989&extension=ts&play_token=O0ocKIrXUh
+#EXTINF:-1 tvg-id="118990" tvg-name="TELECINCO HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELECINCO.png" group-title="ES| TDT ESPAÑA VIP",TELECINCO HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118990&extension=ts&play_token=Tuvt77dcCo
+#EXTINF:-1 tvg-id="118991" tvg-name="TCM HEVC" tvg-logo="http://103.176.90.92/images/118991.png" group-title="ES| M+ CINE",TCM HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118991&extension=ts&play_token=thm1l03h4I
+#EXTINF:-1 tvg-id="118992" tvg-name="SYFY HEVC" tvg-logo="http://103.176.90.92/images/118992.png" group-title="ES| M+ CINE",SYFY HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118992&extension=ts&play_token=qaw2vocZ59
+#EXTINF:-1 tvg-id="118994" tvg-name="NAT GEO WILD HEVC" tvg-logo="http://103.176.90.95/images/118994.png" group-title="ES| DOCUMENTALES",NAT GEO WILD HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118994&extension=ts&play_token=KH0PBBhDlO
+#EXTINF:-1 tvg-id="118995" tvg-name="NAT GEO HEVC" tvg-logo="http://103.176.90.95/images/118995.png" group-title="ES| DOCUMENTALES",NAT GEO HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118995&extension=ts&play_token=2lrpMn1eMk
+#EXTINF:-1 tvg-id="118999" tvg-name="M.FORMULA1 HEVC" tvg-logo="http://103.176.90.95/images/118999.png" group-title="ES| OTROS DEPORTES",M.FORMULA1 HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118999&extension=ts&play_token=czCnjhtUwz
+#EXTINF:-1 tvg-id="119000" tvg-name="M.Estrenos HEVC" tvg-logo="http://103.176.90.95/images/119000.png" group-title="ES| M+ CINE",M.Estrenos HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119000&extension=ts&play_token=NgypXgT5DJ
+#EXTINF:-1 tvg-id="119001" tvg-name="M.COMEDIA HEVC" tvg-logo="http://103.176.90.92/images/119001.png" group-title="ES| M+ CINE",M.COMEDIA HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119001&extension=ts&play_token=pL36PHSOZ7
+#EXTINF:-1 tvg-id="119003" tvg-name="M.SERIES HEVC" tvg-logo="http://103.176.90.95/images/119003.png" group-title="ES| MOVISTAR PLUS+",M.SERIES HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119003&extension=ts&play_token=CXQ5vQPUx9
+#EXTINF:-1 tvg-id="119004" tvg-name="M.LALIGA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="ES| M+ LALIGA",M.LALIGA HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119004&extension=ts&play_token=x3RqKBwPDk
+#EXTINF:-1 tvg-id="119005" tvg-name="M.LALIGA 1 HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="ES| M+ LALIGA",M.LALIGA 1 HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119005&extension=ts&play_token=Jv9HRQHEkB
+#EXTINF:-1 tvg-id="119006" tvg-name="M.GOLF HEVC" tvg-logo="http://103.176.90.95/images/119006.png" group-title="ES| OTROS DEPORTES",M.GOLF HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119006&extension=ts&play_token=7O57yTj5sT
+#EXTINF:-1 tvg-id="119007" tvg-name="M.DRAMA HEVC" tvg-logo="http://103.176.90.95/images/119007.png" group-title="ES| M+ CINE",M.DRAMA HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119007&extension=ts&play_token=7JXqaaJ55X
+#EXTINF:-1 tvg-id="119008" tvg-name="M.DEPORTES HEVC" tvg-logo="http://103.176.90.95/images/119008.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119008&extension=ts&play_token=NyY1F97nGb
+#EXTINF:-1 tvg-id="119009" tvg-name="M.DEPORTES 1 HEVC" tvg-logo="http://103.176.90.95/images/119009.png" group-title="ES| MOVISTAR DEPORTES",M.DEPORTES 1 HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119009&extension=ts&play_token=je6KoTcZBX
+#EXTINF:-1 tvg-id="119010" tvg-name="M.ACCION HEVC" tvg-logo="http://103.176.90.92/images/119010.png" group-title="ES| M+ CINE",M.ACCION HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119010&extension=ts&play_token=xayPRujZ0Q
+#EXTINF:-1 tvg-id="119011" tvg-name="LALIGA TV BAR HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="ES| M+ LALIGA",LALIGA TV BAR HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119011&extension=ts&play_token=MLhNEkrSpb
+#EXTINF:-1 tvg-id="119012" tvg-name="LA SEXTA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LASEXTA.png" group-title="ES| TDT ESPAÑA VIP",LA SEXTA HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119012&extension=ts&play_token=WpDYJXK3eh
+#EXTINF:-1 tvg-id="119013" tvg-name="LA 1 HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LA1.png" group-title="ES| TDT ESPAÑA VIP",LA 1 HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119013&extension=ts&play_token=BP4ByuW23O
+#EXTINF:-1 tvg-id="119014" tvg-name="HOLLYWOOD HEVC" tvg-logo="http://103.176.90.92/images/119014.png" group-title="ES| M+ CINE",HOLLYWOOD HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119014&extension=ts&play_token=XEqRyP7lcX
+#EXTINF:-1 tvg-id="119016" tvg-name="STAR CHANNEL (FOX) HEVC" tvg-logo="http://103.176.90.95/images/119016.png" group-title="ES| M+ CINE",STAR CHANNEL (FOX) HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119016&extension=ts&play_token=xkkXnC5oaZ
+#EXTINF:-1 tvg-id="119017" tvg-name="EUROSPORT 1 HEVC" tvg-logo="http://103.176.90.95/images/119017.png" group-title="ES| OTROS DEPORTES",EUROSPORT 1 HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119017&extension=ts&play_token=l1bkRcGUWo
+#EXTINF:-1 tvg-id="119018" tvg-name="CUATRO HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CUATRO.png" group-title="ES| TDT ESPAÑA VIP",CUATRO HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119018&extension=ts&play_token=pOQlADHbGi
+#EXTINF:-1 tvg-id="119019" tvg-name="COSMO HEVC" tvg-logo="http://103.176.90.92/images/119019.png" group-title="ES| M+ CINE",COSMO HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119019&extension=ts&play_token=mQYhaLsYU0
+#EXTINF:-1 tvg-id="119020" tvg-name="COMEDY CENTRAL HEVC" tvg-logo="http://103.176.90.95/images/119020.png" group-title="ES| M+ CINE",COMEDY CENTRAL HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119020&extension=ts&play_token=i3FjA7Cavl
+#EXTINF:-1 tvg-id="119021" tvg-name="CAZA Y PESCA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CAZAYPESCA.png" group-title="ES| TDT PREMIUM VIP",CAZA Y PESCA HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119021&extension=ts&play_token=Iva8cbGE3A
+#EXTINF:-1 tvg-id="119022" tvg-name="CALLE 13 HEVC" tvg-logo="http://103.176.90.92/images/119022.png" group-title="ES| M+ CINE",CALLE 13 HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119022&extension=ts&play_token=4dspEdyApc
+#EXTINF:-1 tvg-id="119023" tvg-name="AXN MOVIES HEVC" tvg-logo="http://103.176.90.95/images/119023.png" group-title="ES| M+ CINE",AXN MOVIES HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119023&extension=ts&play_token=T01UsAhqti
+#EXTINF:-1 tvg-id="119024" tvg-name="AXN HEVC" tvg-logo="http://103.176.90.95/images/119024.png" group-title="ES| M+ CINE",AXN HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119024&extension=ts&play_token=Wlm2g8dfHX
+#EXTINF:-1 tvg-id="119025" tvg-name="ANTENA 3 HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ANTENA3.png" group-title="ES| TDT ESPAÑA VIP",ANTENA 3 HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119025&extension=ts&play_token=kbRnUT20qC
+#EXTINF:-1 tvg-id="119026" tvg-name="M.INDIE HEVC" tvg-logo="http://103.176.90.95/images/119026.png" group-title="ES| M+ CINE",M.INDIE HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119026&extension=ts&play_token=E0I8jZptZX
+#EXTINF:-1 tvg-id="119027" tvg-name="#VAMOS HEVC" tvg-logo="http://103.176.90.95/images/119027.png" group-title="ES| M+ VAMOS",#VAMOS HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119027&extension=ts&play_token=vNDlbGQejm
+#EXTINF:-1 tvg-id="119028" tvg-name="M.ORIGINALES HEVC" tvg-logo="http://103.176.90.95/images/119028.png" group-title="ES| M+ CINE",M.ORIGINALES HEVC
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=119028&extension=ts&play_token=snhs4j9J96
